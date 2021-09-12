@@ -11,7 +11,7 @@ export default {
 	components: { Countdown },
     data() {
         return {
-            time: 14,
+            time: 15,
 			signalChange: 3,
             isActive: true,
             isBlinking: false
